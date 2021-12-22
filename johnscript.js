@@ -1,3 +1,3 @@
 $(function() {
-    $('div.header').css('background-color','yellow');
+    console.log('works');
 });
